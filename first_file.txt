@@ -1,3 +1,4 @@
 Gurleen Wadhwa
 Dalhousie University
 3rd Year CS
+Hi just managed to learn git for my first PR. 
